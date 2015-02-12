@@ -1,20 +1,3 @@
-// colleccion 
-// edad = key
-// 40 = value
-
-var objecto = {edad : 40, nacionalidad: "argentino"};
-
-var 2 = persona.edad 
-
-var 1 = persona.["edad"] 
-
-var personaDos = {
-	cantOjo : 2,
-	nombre: "Pepe",
-	cantidadAutos: [],
-	cantidadHijos: 2;
-}
-
 
 -------
 
@@ -41,3 +24,5 @@ var auto4 = {
 	dni: 30282649;
 	marca: "Bmw M5";
 }
+
+ 
